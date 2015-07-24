@@ -24,7 +24,7 @@ public class headtails {
             } else if (menu == 2) {
                 System.out.print("Jeszcze raz?(t/n): ");
                 String m = sc.next();
-                if(m == "2"){
+                if(m == " "){
                     break label;
                 } else {
                     System.exit(2);
