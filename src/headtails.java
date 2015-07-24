@@ -3,6 +3,6 @@
  */
 public class headtails {
     public static void main(String[] args){
-
+        System.out.println("YOlo");
     }
 }
